@@ -1,0 +1,11 @@
+intro: "Application for processing of Empower3 data, especially for monitoring of response factors"
+team:
+  - name: "Robert Dillschneider"
+    email: "robert.dillschneider@roche.com"
+    description: "Author"
+use_cases:
+  - "Automated Reporting"
+functions:
+  - "Data processing"
+screenshot_urls:
+  - "https://github.com/dillschr/SMD_BS_ARD_APPs/Logo.jpg"
